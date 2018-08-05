@@ -4,14 +4,14 @@ implementing machine learning based trading strategies including the algorithmic
 
 projects includes:
 1. assess protofolio
-  portfolio analysis. You will use pandas for reading in data, calculating various statistics and plotting a comparison graph.
+<br> portfolio analysis. Use pandas for reading in data, calculating various statistics and plotting a comparison graph.
 2. assess learner
-  implement and evaluate three learning algorithms as Python classes: A "classic" Decision Tree learner, a Random Tree learner, and a Bootstrap Aggregating learner.
+ <br>  implement and evaluate three learning algorithms as Python classes: A "classic" Decision Tree learner, a Random Tree learner, and a Bootstrap Aggregating learner.
 3. defeat learner
-  test the strengths and weaknesses of various learners. 
+ <br>  test the strengths and weaknesses of various learners. 
 4. marketism
-  create a market simulator that accepts trading orders and keeps track of a portfolio's value over time and then assesses the performance of that portfolio.
+ <br>  create a market simulator that accepts trading orders and keeps track of a portfolio's value over time and then assesses the performance of that portfolio.
 5. qlearning robot
-   implement the Q-Learning and Dyna-Q solutions to the reinforcement learning problem. You will apply them to a navigation problem in this project.
+ <br>   implement the Q-Learning and Dyna-Q solutions to the reinforcement learning problem. You will apply them to a navigation problem in this project.
 6. strategy learner
-  design a learning trading agent. 
+<br>   design a learning trading agent. 
